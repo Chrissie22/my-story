@@ -14,4 +14,4 @@
 
 *git remote -v: -v stands for vaerbose and it will show you the nickname (origin) and the url it points to.
 
-*git push -u origin master: the -u is shorthand for --set-upstream.
+*git push -u origin master: the -u is shorthand for --set-upstream
