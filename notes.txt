@@ -1,0 +1,1 @@
+1. Thngs i learned today is how to initialize a git folder, git add and git commit.
