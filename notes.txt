@@ -1,1 +1,17 @@
-1. Thngs i learned today is how to initialize a git folder, git add and git commit.
+ Documenting git Basics.
+
+*What Version Control is: A "time machine" for your code.
+
+*git init: To start tracking a new project.
+
+*git add: To stage your changes (put them in the "shopping cart").
+
+*git commit -m "message": To create a permanent save point.
+
+*git log: To view the history of your save points.
+
+*git remote add origin [YOUR_REPO_URL]
+
+*git remote -v: -v stands for vaerbose and it will show you the nickname (origin) and the url it points to.
+
+*git push -u origin master: the -u is shorthand for --set-upstream.
